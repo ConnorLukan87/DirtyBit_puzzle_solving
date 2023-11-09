@@ -1,5 +1,6 @@
 //
 // Created by Connor Lukan on 10/27/23.
+// https://open.kattis.com/problems/rationalsequence
 //
 #include <iostream>
 
